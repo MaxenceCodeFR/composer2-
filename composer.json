@@ -1,0 +1,14 @@
+{
+    "name": "app/comp",
+    "autoload": {
+        "psr-4": {
+            "App\\Comp\\": "src/hello.php"
+        }
+    },
+    "authors": [
+        {
+            "name": "Maxence"
+        }
+    ],
+    "require": {}
+}
